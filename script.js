@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Saber o que queremos para nosso futuro é crucial para a escolha da faculdade ideal que vai impulsionar nosso futuro. Vocẽ ja sabe o que quer cursar ou tem uma base do que vai escolher?",
+        enunciado: "Saber o que queremos para nosso futuro é crucial para a escolha da faculdade ideal que vai impulsionar sua vida. Vocẽ ja sabe o qual profissão quer escolher para seu futuro?",
         alternativas: [
             {
                 texto: "Sim. Já me decidi do que quero!",
-                afirmacao: "Esse é um bom começo, estar decidido do que quer cursar é um passo muito importante!"
+                afirmacao: "Esse é um bom começo, estar decidido do que quer é um passo muito importante!"
             },
             {
                 texto: "Não. Ainda tenho dúvidas sobre o que quero!",
@@ -32,14 +32,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Caso não tenha escolhido ainda, vocẽ acha que essa dúvida sobre escolher a profissão do seu futuro é ocasionada por qual motivo? ou você não pretende cursar faculdade?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Pela falta de incen",
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Não pretendo cursar faculdade, falta de aptidão e/ou prefiro cursos profissionalizantes.",
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
         ]
