@@ -35,7 +35,7 @@ const perguntas = [
         enunciado: "Caso não tenha escolhido ainda, vocẽ acha que essa dúvida sobre escolher a profissão do seu futuro é ocasionada por qual motivo? ou você não pretende cursar faculdade?",
         alternativas: [
             {
-                texto: "Pela falta de incen",
+                texto: "Pela falta de incentivo",
                 afirmacao: "."
             },
             {
@@ -45,20 +45,20 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você prefere a área de humanas ou a área de exatas?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Humanas, cálculos não são minha vibe.",
                 afirmacao: "."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Exatas, escrever redação me deixa sonolento.",
                 afirmacao: "."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "",
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
