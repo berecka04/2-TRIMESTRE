@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "VOCẼ SABE O QUE GOSTA? FAÇA ESSE TESTE E VEJA QUAL SEU TIPO DE PERSONALIDADE",
+        enunciado: "Você já se decidiu sobre o que quer pro futuro ou ainda resta dúvidas?",
         alternativas: [
             {
                 texto: "Sim. Já me decidi do que quero!",
@@ -61,11 +61,11 @@ const perguntas = [
         enunciado: "",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                texto: ".",
                 afirmacao: "."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: ".",
                 afirmacao: "."
             }
         ]
